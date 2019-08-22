@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_trigger_instance">
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Action Test Flow">936f62ef4fdb3700fc4ac98e9310c7bb</flow>
+        <name>Run Once</name>
+        <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 14:08:30</sys_created_on>
+        <sys_id>56227e634f1f3700fc4ac98e9310c775</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>run_once</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_391326_needit_sp">351ee6ab4fdb3700fc4ac98e9310c769</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">351ee6ab4fdb3700fc4ac98e9310c769</sys_scope>
+        <sys_update_name>sys_hub_trigger_instance_56227e634f1f3700fc4ac98e9310c775</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 15:50:43</sys_updated_on>
+        <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>run_once</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=56227e634f1f3700fc4ac98e9310c775"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>56227e634f1f3700fc4ac98e9310c775</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 14:08:30</sys_created_on>
+        <sys_id>9a227e634f1f3700fc4ac98e9310c778</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 14:08:30</sys_updated_on>
+        <value>2019-08-29 09:25:00</value>
+        <variable display_value="">92afcd94c32222002841b63b12d3aee8</variable>
+    </sys_variable_value>
+</record_update>
